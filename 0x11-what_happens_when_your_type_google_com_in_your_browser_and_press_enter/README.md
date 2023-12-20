@@ -1,1 +1,1 @@
-Blog post
+Blog Post
